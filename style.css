@@ -42,7 +42,8 @@
   padding: 0px;
 }
 .list__item, 
-.main__section-todo__title, .main__section-completed__title {
+.main__section-todo__title,
+.main__section-completed__title {
   list-style: none;
 }
 .btn{
