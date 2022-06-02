@@ -123,7 +123,10 @@
   align-items: center;
 }
 
-.list__item > * {
+.list__input-type-checkbox,
+.list__input-type,
+.btn,
+.list__item__btn-delete-img {
   vertical-align: middle;
 }
 
